@@ -1,1 +1,3 @@
 cuma ngetest aja
+test lgi 
+test llgi 2
